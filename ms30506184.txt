@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "fentar.id",
+  "Id": "b3ba785d-d660-4f1d-8054-06d2578b2f44"
+}
